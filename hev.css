@@ -13,6 +13,11 @@ h1, h2{
   font-variant: small-caps;
 }
 
+h3 {
+  border: solid black 3px;
+  border-radius: 10px;
+}
+
 .kepek{
   width: 333px;
   margin-left: 25px;
