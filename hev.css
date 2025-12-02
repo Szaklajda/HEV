@@ -14,9 +14,10 @@ h1, h2{
   font-variant: small-caps;
 }
 
-h3 {
+.keret {
   border: solid black 3px;
   border-radius: 10px;
+  text-align: center;
 }
 
 .kepek{
@@ -37,4 +38,9 @@ h3 {
   text-align: center;
   margin: 10px 100px;
   padding: 10px;
+}
+
+select {
+  border: solid 1px gray;
+  border-radius: 5px;
 }
